@@ -1,4 +1,4 @@
-LedsJsSlider
+CollectionShop
 ============
 
 ##Introduction
