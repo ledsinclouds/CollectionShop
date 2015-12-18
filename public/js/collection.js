@@ -11,7 +11,7 @@ window.onload = function(){
 		var idRef = $(imageObject).find('img').attr('id');
 		
 		document.getElementById("foreground").innerHTML = "";
-		fg = '/img/lunettes/lunette' + idRef + '.png';
+		fg = '/img/lunettes/png/lunette' + idRef + '.png';
 		var R = Raphael('foreground', 550, 300);
 		var fg_img = R.image(fg, 2, 39, 170, 138);
 	});		
