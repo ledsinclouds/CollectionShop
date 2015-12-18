@@ -1,0 +1,58 @@
+.row{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sketch {
+    background: #999999 none repeat scroll 0 0;
+    width: 100%;
+}
+#background img {
+	z-index: 999
+}
+.foreground{
+	position: absolute
+}
+.links_container{
+	margin: -20px 0 0 -45.5px
+}
+#mannequib{
+	margin: o auto
+}
+.thumbs{
+	z-index:999
+}
+.margin10 {
+    margin: 10px 42px;
+}
+.margin10 img{
+	width: 100px;
+}
+.imageMenu {
+    display: block;
+    float: left;
+    margin-right: 5px;
+}
+img .image{
+    vertical-align: middle;
+}
+ol,ul {
+    list-style: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.items-menu{
+
+    left: 65px;
+    display: none
+}
+.foreground {
+    height: 138px;
+    left: 207px;
+    overflow: hidden;
+    position: absolute;
+    top: 85px;
+    width: 170px;
+    z-index: 9;
+}
