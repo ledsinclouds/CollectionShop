@@ -1,5 +1,5 @@
 {
-    "name": "ledsinclouds/leds-collection-shop",
+    "name": "ledsinclouds/collection-shop",
     "description": "ZF2 Demo Module implementing Image Loading using Javascript Raphael Library",
     "type": "library",
     "license": "BSD-3-Clause",
