@@ -1,5 +1,5 @@
 {
-    "name": "ledsinclouds/collection-shop",
+    "name": "ledsinclouds/leds-collection-shop",
     "description": "ZF2 Demo Module implementing Image Loading using Javascript Raphael Library",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -7,12 +7,12 @@
         "framework",
         "zf2"
     ],
-    "homepage": "https://github.com/ledsinclouds/CollectionShop.git",
+    "homepage": "https://github.com/ledsinclouds/LedsCollectionShop.git",
     "minimum-stability": "dev",
     "repositories": [
 		{
 			"type": "vcs", 
-			"url": "https://github.com/ledsinclouds/CollectionShop.git"
+			"url": "https://github.com/ledsinclouds/LedsCollectionShop.git"
 		}
     ],
     "require": {
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-0": {
-            "CollectionShop\\": "src/"
+            "LedsCollectionShop\\": "src/"
         }
     }
 }   
